@@ -81,7 +81,7 @@ if(isset($_GET["id"]) && $_GET["id"] != "" && isset($_GET["do"]) && $_GET["do"] 
 <body>
     <div class="container">
         <div class="row">
-            <div class="col-12 py-3">
+            <div class="col-12 pt-5 pb-3">
                 <h1 class="text-center">Registro de clientes</h1>
             </div>
         </div>
